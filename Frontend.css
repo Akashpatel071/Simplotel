@@ -1,0 +1,204 @@
+*
+{
+    align-items: center;
+}
+.outer{
+height:6%;
+width: 80%;
+background-color:rgb(241, 94, 94); 
+display: flex;
+justify-content: space-around;
+overflow: hidden;
+position: relative;
+left: 8%;
+}
+
+.div1
+{
+    display: inline;
+    font-weight:900;
+    letter-spacing: 0.1em;
+    position: relative;
+    
+}
+.div2
+{
+    display:inline;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    
+}
+.div3
+{
+    display:inline;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    
+}
+.div4
+{
+    display:inline;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    
+}
+.div5
+{
+    display:inline;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+.div6
+{
+     height: 50%;
+    width:3%;
+   background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F422593&psig=AOvVaw0gC1AMU3DJsPNJEuXLvXIS&ust=1707897770862000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDH05Htp4QDFQAAAAAdAAAAABAF");
+    
+   
+
+     background-image:cover;  
+     /* background-color: burlywood; */
+    
+}
+.part1
+{
+    width: 80%;
+    height:90%;
+    background-color: rgb(231, 226, 163);
+    display: flex;
+    position: relative;
+left: 8%;
+}
+.part2
+{
+    width: 80%;
+    height:90%;
+    background-color: rgb(231, 226, 163);
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    left: 8%;
+}
+.text1
+{
+    width:50%;
+    height:100%;
+    background-color: rgb(231, 226, 163);
+    background-size: 65vw 95vh;
+     background-position: center;
+    display:inline-block;
+    overflow: hidden;
+}
+.img1
+{
+    width:50%;
+    height:100%;
+    background-image: url("Assets/pexels-robin-stickel-70497.jpg");
+    background-size: 65vw 95vh;
+    background-position: center;
+    display: inline-block;
+}
+.loi
+{
+    position: relative;
+    left:10%;
+    top:4%;
+    font-weight: bold;
+    font-size:4vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.1em;
+    overflow: hidden;
+}
+.para
+{
+    margin: 14%;
+}
+.btn
+{
+    position: relative;
+    left: 5vw; 
+background-color:rgb(241, 94, 94); 
+}
+.images
+{
+    width:50%;
+    height:100%;
+    mix-blend-mode: multiply; 
+    
+}
+
+.txt{
+    width:50%;
+    height:100%;
+    background-color:rgb(247, 189, 226); 
+    
+}
+
+.p1{
+width:30vw;
+height:40vh;
+background-color:rgb(241, 94, 94);  
+position: relative;
+top:14vw;
+left:3vw;
+}
+span{
+    position: relative;
+    top:2vw;
+    left:2vw;
+}
+.a1{
+    font-weight: bold;
+    font-size:3vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.1em;
+    overflow: hidden;
+    display:block;
+    overflow: hidden;
+}
+.a2{
+    font-weight: bold;
+    font-size:3vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.1em;
+    overflow: hidden;
+    display:block;
+    overflow: hidden;
+}
+.a3
+{
+    position:relative;
+    left:2vw;
+}
+img{
+    height:180px;
+    width: 170px;
+}
+.content{
+    display: grid;
+    grid-template-columns: 12vw 24vw;
+    width:50vw;
+    position: relative;
+    top:5vw;
+    left:2vw;
+}
+.box1
+{
+    height:175px;
+    
+}
+.box3{
+    height:175px;
+}
+.box2 img{
+    height: 350px;
+    width:200px;
+}
+.box2{
+    grid-row-start:1;
+    grid-row-end:3;
+    grid-column-start:2;
+    grid-column-end:3;
+    
+    
+}
